@@ -1,0 +1,9 @@
+target/
+.classpath
+.project
+.settings/
+*.bak
+fqueue/
+.DS_Store
+*.class
+D:/
